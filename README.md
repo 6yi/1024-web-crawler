@@ -10,6 +10,8 @@
    
    停止:
    ctrl+c
+   
+   如果网络不好，小概率会崩掉，重新运行就OK
 ```
 
 ![Image text](https://raw.githubusercontent.com/6yi/1024-web-crawler/master/demo.png)
