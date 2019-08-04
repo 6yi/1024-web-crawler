@@ -7,6 +7,9 @@
    运行：
    python 1024.py
 ```
+
+![Image text](https://raw.githubusercontent.com/6yi/1024-web-crawler/master/demo.png)
+
 # 默认爬的是达盖尔的旗帜，可以自己修改想要爬的分区
 
 ```bash
