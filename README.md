@@ -1,11 +1,15 @@
 # 单线程爬虫，下载的图片文件全部保存在了项目下，下载过的会自动跳
  ```bash
+   请在python 3下运行
    需要的库：
    requests
    lxml
    
    运行：
    python 1024.py
+   
+   停止:
+   ctrl+c
 ```
 
 ![Image text](https://raw.githubusercontent.com/6yi/1024-web-crawler/master/demo.png)
